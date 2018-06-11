@@ -1,4 +1,7 @@
 # spectral_clustering
+
+In this repository we present two demo notebooks how spectral clustering can be applied to extract relevant dynamics out of a variety of monitored metrics.
+
 The toy example notebook sketches how spectral clustering works on a small perturbed block matrix with three (quasi-)blocks. 
 
 In the real data example the algorithm is applied to real masked data. For this purpose is specified a similarity function, then computed a cluster assignment and reordered similarity matrix according to the identified quasi-blocks.
